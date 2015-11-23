@@ -1,0 +1,13 @@
+followed these instructions
+https://www.digitalocean.com/community/tutorials/how-to-install-a-mean-js-stack-on-an-ubuntu-14-04-server
+
+
+go to
+/opt/mean
+
+run:
+	grunt
+
+open to localhost:3000
+
+ta-da!
