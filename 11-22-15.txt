@@ -11,3 +11,19 @@ run:
 open to localhost:3000
 
 ta-da!
+
+oh wait,
+
+git commands:
+
+git init (create a repo, you only do this once)
+git status (see what's going on with the repository)
+git add (add a file to a commit -- this doesn't commit it tho)
+git commit (commits the files that have been added)
+git diff (see what's different between two versions
+	git diff -- see what's changed and not yet committed
+	git diff HEAD^ -- diff the current HEAD with one version back
+	git diff HEAD^^ -- same, but two versions back
+
+
+
